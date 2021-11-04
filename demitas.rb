@@ -8,6 +8,6 @@ class Demitas < Formula
 
   def install
     bin.install 'demitas'
-    bin.install 'demitaspf'
+    bin.install 'demitas-pf'
   end
 end
