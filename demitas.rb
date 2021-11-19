@@ -1,9 +1,9 @@
 class Demitas < Formula
   desc 'Wrapper for ecspresso that creates task definitions at run time.'
   homepage 'https://github.com/winebarrel/demitas'
-  version '0.5.7'
+  version '0.5.8'
   url "https://github.com/winebarrel/demitas/releases/download/v#{version}/demitas_v#{version}_darwin_amd64.tar.gz"
-  sha256 'b4314b347633a1f722388dc9dd9c66b5abc20a79e166993c71706afb8a2e4adb'
+  sha256 '3550d0278b1401e7649da9c13689499163c9b5cc10b6d4df3c8b83d6fc592d41'
   license 'MIT'
 
   def install
