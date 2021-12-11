@@ -6,8 +6,6 @@ class Demitas < Formula
   sha256 '703f539f4e08938c6a0a8fbd77d0871cab08c7eeb96e6dff83605c3172a5e264'
   license 'MIT'
 
-  depends_on 'ecs-exec-pf'
-
   def install
     bin.install 'demitas'
     bin.install 'demitas-pf'
